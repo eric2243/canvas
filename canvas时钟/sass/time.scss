@@ -1,0 +1,11 @@
+@import "variables";
+* {
+	margin: $all-mg;
+	padding: $all-pd;
+	box-sizing: $all-boxS;
+}
+.container {
+	width: $container-wid;
+	height: $container-hei;
+	margin: $container-mg;
+}

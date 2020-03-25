@@ -1,0 +1,14 @@
+@import "./variables";
+body {
+	margin: $body-mg;
+	padding: $body-pd;
+	box-sizing: $body-boxS;
+}
+#container {
+	border: $container-bd;
+	position: $container-pos;
+	left: $container-lf;
+	top: $container-top;
+	margin-left: $container-mgl;
+	margin-top: $container-mgt;
+}
